@@ -4,4 +4,4 @@ I'm Aris Chronopoulos from Athens Greece and im undergraduate at Computer Scienc
 :envelope_with_arrow: arhsxro@gmail.com
 
 
-Format: ![Alt Text](url)[(Downloads/player.png)](https://www.instagram.com/arhs_xro/?hl=el)
+[(Downloads/player.png)](https://www.instagram.com/arhs_xro/?hl=el)
