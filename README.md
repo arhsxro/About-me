@@ -6,4 +6,4 @@ I'm Aris Chronopoulos from Athens Greece and im undergraduate at Computer Scienc
 
 [(Downloads/player.png)](https://www.instagram.com/arhs_xro/?hl=el)
 
-![GitHub Logo](Downloads/player.png)
+
