@@ -1,5 +1,7 @@
 # About-me
-I'm Aris Chronopoulos from Athens Greece and im undergraduate at Computer Science(Athens University Of Economics and Business).
+Bachelor degree on Computer Science (Athens University of Economics and Business).
+
+Passionate software developer with a strong desire to create innovative solutions. Skilled in problem-solving, adaptable to new technologies, and committed to writing clean, efficient code. Collaborative and detail-oriented, with excellent communication skills. Dedicated to delivering high-quality work and shaping the future through software development.
 
 :envelope_with_arrow: arhsxro@gmail.com
 
