@@ -8,7 +8,6 @@ Dedicated to delivering high-quality work and shaping the future through softwar
 
 You can also reach me:
 
-[<img align="left" alt="arhsxro |Instagram"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="arhsxro |LinkedIn"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/aris-chronopoulos-6330b5202/
